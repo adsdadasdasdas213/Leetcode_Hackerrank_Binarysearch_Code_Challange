@@ -1,4 +1,4 @@
 package Binarysearch;
 
-public class Test {
+public class Test1 {
 }
