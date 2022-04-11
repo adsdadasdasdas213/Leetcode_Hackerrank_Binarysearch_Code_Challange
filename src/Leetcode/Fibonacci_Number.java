@@ -2,6 +2,13 @@ package Leetcode;
 
 import java.util.Scanner;
 
+/**
+ * Name: Bahriddin
+ * Date: 11.04.2022
+ * Time: 15:29:50
+ * Link: https://leetcode.com/problems/fibonacci-number
+ * Description: null
+ */
 public class Fibonacci_Number {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
