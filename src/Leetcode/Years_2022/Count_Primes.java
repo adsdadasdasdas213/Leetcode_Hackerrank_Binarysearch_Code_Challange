@@ -1,4 +1,4 @@
-package Leetcode;
+package Leetcode.Years_2022;
 
 import java.util.Arrays;
 import java.util.Scanner;
