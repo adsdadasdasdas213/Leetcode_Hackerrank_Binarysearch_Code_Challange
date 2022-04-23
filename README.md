@@ -1,4 +1,4 @@
-# Leetcode_Hackerrank_Binarysearch_Bahriddin
+# Leetcode_Hackerrank_Binarysearch_Code_Challange
 
 ## Code Challenging
 
