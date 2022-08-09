@@ -9,6 +9,12 @@
 
 <img src="./src/Bahriddin_Muhammadjonov_githhub.gif" alt="Code Chalange">
 
+<p>Current Date and Time is <span id='date-time'></span>.</p>
+<script>
+var dt = new Date();
+document.getElementById('date-time').innerHTML=dt;
+</script>
+
 ## Used Websites
 1. https://leetcode.com
 2. https://binarysearch.com
