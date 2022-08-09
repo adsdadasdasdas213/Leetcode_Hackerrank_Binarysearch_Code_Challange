@@ -11,6 +11,6 @@
 
 
 ## Websites
-1. https://leetcode.com
-2. https://binarysearch.com
-3. https://www.hackerrank.com
+1. leetcode.com
+2. binarysearch.com
+3. www.hackerrank.com
